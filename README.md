@@ -64,7 +64,7 @@ Você irá usar as seguintes ferramentas para construir sua aplicação:
 <div id="project"></div>
 ## 💻 Projeto
 
-Construir o backend para um sistema de prontuário eletrônico onde o médico pode cadastrar as informações do paciente como nome, telefone, data de nascimento, sexo, altura e peso e fazer os registros das consultas realizadas por paciente.
+Desenvolva uma aplicação front-end utilizando ReactJS com TypeScript, utilizando o framework Next.js e a biblioteca Material-UI, que permita aos usuários interagir com a API Deslocamento para realizar operações relacionadas a clientes, condutores, deslocamentos e veículos. A aplicação deve fornecer interfaces para criar, visualizar, atualizar e excluir registros em cada uma dessas entidades, seguindo as melhores práticas e padrões de desenvolvimento.
 
 <div id="layout"></div>
 ## 🔖 Layout
